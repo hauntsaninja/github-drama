@@ -420,6 +420,8 @@ lerna/lerna
 * [/issues/1632](https://github.com/lerna/lerna/issues/1632)
 * [/pull/1633](https://github.com/lerna/lerna/pull/1633)
 
+[mdn/yari/issues/9208](https://github.com/mdn/yari/issues/9208)
+
 [spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
 
 [Microsoft/Terminal/issues/10362](https://github.com/microsoft/terminal/issues/10362)
